@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ServerCraftSquad.aternos.me:34780",
+    "ip": "ServerCraftSquad.aternos.me",
     "port": 34780,
     "version": "26.2",
     "try-creative": false
